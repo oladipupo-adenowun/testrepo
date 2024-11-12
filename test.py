@@ -1,1 +1,1 @@
-this a test
+print("this a test");
